@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Painel de Treino e Nutrição",
+  "description": "Aplicativo fitness completo com interface Glassmorphism premium, acompanhamento de treinos, calorias, gráficos e feed de comunidade interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
